@@ -1,12 +1,15 @@
 # Email-and-Phising-Analysis
 
  Overview
-Brief overview here.
+This project focuses on analyzing suspicious emails to detect phishing attempts, malicious senders, and spoofing techniques. It demonstrates practical skills in email forensics, threat detection, and incident response.
 
 ## Tools & Technologies
-- Tool 1
-- Tool 2
-- Tool 3
+## Tools & Technologies
+- **Thunderbird**: Used to read and analyze email content and headers.
+- **Sublime Text**: Opened raw email files to examine headers and body for suspicious patterns.
+- **MXToolbox**: Verified mail servers and checked SPF, DKIM, and DMARC records.
+- **VirusTotal**: Scanned email attachments and links for malware or phishing threats.
+
 
 ## What I Did
 1. Step one
