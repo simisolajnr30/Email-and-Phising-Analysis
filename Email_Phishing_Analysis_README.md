@@ -69,11 +69,27 @@ By correlating both results, I confirmed that the email was malicious despite th
 ---
 
 ## 🖼️ Screenshots
-*(Add these when ready — they make your project stand out visually.)*
+### 🖼️ Screenshots
 
-![Email Header Analysis](screenshots/header_analysis.png)
-![MXToolbox Result](screenshots/mxtoolbox_result.png)
-![VirusTotal Result](screenshots/virustotal_result.png)
+**1️⃣ Extracting the Email File in Thunderbird**
+Shows the suspicious email opened as a `.eml` file for analysis.
+![Thunderbird Email View](screenshots/thunderbird-mail.png)
+
+**2️⃣ Manual Header Analysis in Sublime Text**
+Inspected the `From`, `Received`, and `Message-ID` fields to detect anomalies.
+![Header Analysis in Sublime](screenshots/sublime.png)
+
+**3️⃣ MXToolbox Header Analyzer Verification**
+Validated header data and confirmed suspicious relay servers.
+![MXTool Header Analyzer](screenshots/mxtool-header-analyzer.png)
+
+**4️⃣ VirusTotal Domain Scan**
+Scanned the spoofed domain to confirm blacklisting and malicious activity.
+![VirusTotal Domain Report](screenshots/virustotal-domain.png)
+
+**5️⃣ VirusTotal IP Address Scan**
+Checked sender’s IP reputation across multiple security engines.
+![VirusTotal IP Report](screenshots/virustotal-ip-address.png)
 
 ---
 
