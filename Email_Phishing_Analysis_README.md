@@ -98,11 +98,4 @@ By correlating both results, I confirmed that the email was malicious despite th
 - Understanding why VirusTotal “undetected” does not always mean safe.  
 - Correlating multiple tools to reach accurate conclusions as a SOC analyst.  
 
----
 
-## 🔗 References
-- [MXToolbox](https://mxtoolbox.com/)  
-- [VirusTotal](https://www.virustotal.com/)  
-- [Thunderbird Documentation](https://www.thunderbird.net/)  
-- [Sublime Text Docs](https://www.sublimetext.com/docs/)  
-- Udemy SOC Analyst Course – *Email & Phishing Analysis Module*
