@@ -26,21 +26,37 @@ Even though VirusTotal reported “undetected,” I concluded that this was a **
 ---
 
 ## 📊 Outcome
-The investigation revealed that the sender domain `amaz0n-pay.com` is a **typosquatted** version of the legitimate Amazon domain.  
-The message also passed through **suspicious relay hosts** such as `smtp.ecorp.com` and `suspicious-host.ru`, both of which appeared in blacklist databases.  
-The email even contained a **localhost hop**, showing that it did not originate from a proper mail server.  
+## Outcome
 
-All authentication mechanisms—SPF, DKIM, and DMARC—**failed**, confirming the sender was impersonating another entity.  
-Although VirusTotal did not yet detect the domain as malicious, the combination of these findings strongly indicates a **phishing attempt using malicious infrastructure**.
+1. **Suspicious Domain:** `amaz0n-pay.com` — typosquatted version of Amazon Pay; undetected by vendors but linked to community reports describing requests for personal information and containing poor grammar/spelling.
+2. **Suspicious Host:** `suspicious-host.ru` — appears on MXToolbox blacklists and is associated with the sending infrastructure.
+3. **Origin IP:** `203.0.113.77` — not flagged by security vendors on VirusTotal but associated with at least one detected malicious file and connected to the blacklisted host.
+4. **Localhost Hop:** The email passed through `127.0.0.1`, indicating forged routing.
+5. **Authentication:** SPF failed, DKIM failed, DMARC failed.
+6. **Conclusion:** This email is part of a **new or low-profile phishing campaign** impersonating Amazon Pay. Community reports and behavioral indicators (typosquatting, poor grammar/spelling, blacklisted relay) confirm the attack is malicious despite limited automated detections.
+
 
 **Final Verdict:** 🚨 The email is classified as **Phishing / Malicious Infrastructure**.
 
----
+
 
 ## 🧪 VirusTotal Summary
 I uploaded the `.eml` file and searched its domains and IP addresses separately on VirusTotal.  
 All returned “undetected,” which likely means the campaign was **new or had not yet been reported** by antivirus vendors.  
 However, manual analysis showed clear signs of phishing, proving that analyst reasoning remains essential even when tools report no detections.
+
+### Domain Lookup (`amaz0n-pay.com`)
+The domain `amaz0n-pay.com` was scanned on VirusTotal.
+
+**Result:**  
+No security vendors flagged this domain as malicious.
+
+### IP Lookup (`203.0.113.77`)
+The IP address `203.0.113.77` (associated with `suspicious-host.ru`) was scanned on VirusTotal.
+
+**Result:**  
+No security vendors flagged this IP address as malicious.
+
 
 ---
 
