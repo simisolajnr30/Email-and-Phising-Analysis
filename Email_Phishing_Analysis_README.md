@@ -60,19 +60,19 @@ No security vendors flagged this IP address as malicious.
 ## 📸 Screenshots
 
 1. **Thunderbird Email View**  
-   ![Thunderbird Email](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/14e87e9708bd91b62e2fbc161aea33cc0c7f1971/screenshots/thunderbird_email.png?raw=true)
+   ![Thunderbird Email](./screenshots/thunderbird_email.png)
 
 2. **Manual Header Analysis in Sublime Text**  
-   ![Sublime Header Analysis](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/14e87e9708bd91b62e2fbc161aea33cc0c7f1971/screenshots/sublime_analysis.png?raw=true)
+   ![Sublime Header Analysis](./screenshots/sublime_analysis.png)
 
 3. **MXToolbox Header Analyzer**  
-   ![MXTool Analyzer](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/14e87e9708bd91b62e2fbc161aea33cc0c7f1971/screenshots/mxtool_header_analyzer.png?raw=true)
+   ![MXTool Analyzer](./screenshots/mxtool_header_analyzer.png)
 
 4. **VirusTotal Domain Scan**  
-   ![VirusTotal Domain Scan](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/14e87e9708bd91b62e2fbc161aea33cc0c7f1971/screenshots/virustotal_domain_lookup.png?raw=true)
+   ![VirusTotal Domain Scan](./screenshots/virustotal_domain_lookup.png)
 
 5. **VirusTotal IP Address Scan**  
-   ![VirusTotal IP Scan](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/14e87e9708bd91b62e2fbc161aea33cc0c7f1971/screenshots/virustotal_ip_address.png?raw=true)
+   ![VirusTotal IP Scan](./screenshots/virustotal_ip_address.png)
 
 
 ---
