@@ -57,7 +57,6 @@ The IP address `203.0.113.77` (associated with `suspicious-host.ru`) was scanned
 **Result:**  
 No security vendors flagged this IP address as malicious.
 
-## 📸 Screenshots
 
 ## 📸 Project Screenshots
 
