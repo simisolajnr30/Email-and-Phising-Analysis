@@ -57,27 +57,22 @@ The IP address `203.0.113.77` (associated with `suspicious-host.ru`) was scanned
 **Result:**  
 No security vendors flagged this IP address as malicious.
 
-### 🖼️ Screenshots
+### 📸 Screenshots
 
-**1️⃣ Extracting the Email File in Thunderbird**
-Shows the suspicious email opened as a `.eml` file for analysis.  
-![Thunderbird Email View](screenshots/thunderbird-mail.png)
+1️⃣ **Extracting the Email File in Thunderbird**  
+![Thunderbird Email](./screenshots/thunderbird_email.png)
 
-**2️⃣ Manual Header Analysis in Sublime Text**
-Inspected the `From`, `Received`, and `Message-ID` fields to detect anomalies.  
-![Header Analysis in Sublime](screenshots/sublime.png)
+2️⃣ **Manual Header Analysis in Sublime Text**  
+![Sublime Header Analysis](./screenshots/sublime_analysis.png)
 
-**3️⃣ MXToolbox Header Analyzer Verification**
-Validated header data and confirmed suspicious relay servers.  
-![MXTool Header Analyzer](screenshots/mxtool-header-analyzer.png)
+3️⃣ **MXToolbox Header Analyzer Verification**  
+![MXTool Header Analyzer](./screenshots/mxtool_header_analyzer.png)
 
-**4️⃣ VirusTotal Domain Scan**
-Scanned the spoofed domain to confirm blacklisting and malicious activity.  
-![VirusTotal Domain Report](screenshots/virustotal-domain.png)
+4️⃣ **VirusTotal Domain Scan**  
+![VirusTotal Domain Lookup](./screenshots/virustotal_domain_lookup.png)
 
-**5️⃣ VirusTotal IP Address Scan**
-Checked sender’s IP reputation across multiple security engines.  
-![VirusTotal IP Report](screenshots/virustotal-ip-address.png)
+5️⃣ **VirusTotal IP Address Scan**  
+![VirusTotal IP Address Scan](./screenshots/virustotal_ip_address.png)
 
 ---
 
