@@ -60,7 +60,7 @@ No security vendors flagged this IP address as malicious.
 ## 📸 Screenshots
 
 1. **Thunderbird Email View**
-   ![Thunderbird Email](screenshots/thunderbird_email.png)
+   ![Thunderbird Email](./screenshots/thunderbird_email.png)
 
 2. **Manual Header Analysis in Sublime Text**
    ![Sublime Header Analysis](./screenshots/sublime_analysis.png)
