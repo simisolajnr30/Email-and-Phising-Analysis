@@ -64,6 +64,7 @@ No security vendors flagged this IP address as malicious.
 ![Thunderbird Email](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/thunderbird_email.png?raw=true)
 
 ### 2. Sublime Text Analysis
+![Sublime Text Analysis](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/83fc2e6b846674ba21a0cc183b6cac2fc45a01f8/screenshot/sublime_analysis.png?raw=true)
 
 
 ### 3. MXTool Header Analyzer
