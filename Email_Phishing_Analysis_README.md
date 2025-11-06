@@ -57,22 +57,22 @@ The IP address `203.0.113.77` (associated with `suspicious-host.ru`) was scanned
 **Result:**  
 No security vendors flagged this IP address as malicious.
 
-### 📸 Screenshots
+## 📸 Screenshots
 
-1️⃣ **Extracting the Email File in Thunderbird**  
-![Thunderbird Email](./screenshots/thunderbird_email.png)
+1. **Thunderbird Email View**
+   ![Thunderbird Email](./screenshots/thunderbird_email.png)
 
-2️⃣ **Manual Header Analysis in Sublime Text**  
-![Sublime Header Analysis](./screenshots/sublime_analysis.png)
+2. **Manual Header Analysis in Sublime Text**
+   ![Sublime Header Analysis](./screenshots/sublime.png)
 
-3️⃣ **MXToolbox Header Analyzer Verification**  
-![MXTool Header Analyzer](./screenshots/mxtool_header_analyzer.png)
+3. **MXToolbox Header Analyzer**
+   ![MXTool Analyzer](./screenshots/mxtool_header_analyzer.png)
 
-4️⃣ **VirusTotal Domain Scan**  
-![VirusTotal Domain Lookup](./screenshots/virustotal_domain_lookup.png)
+4. **VirusTotal Domain Scan**
+   ![VirusTotal Domain Scan](./screenshots/virustotal_domain_lookup.png)
 
-5️⃣ **VirusTotal IP Address Scan**  
-![VirusTotal IP Address Scan](./screenshots/virustotal_ip_address.png)
+5. **VirusTotal IP Address Scan**
+   ![VirusTotal IP Scan](./screenshots/virustotal_ip_address.png)
 
 ---
 
