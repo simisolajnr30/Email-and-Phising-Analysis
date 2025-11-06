@@ -63,7 +63,7 @@ No security vendors flagged this IP address as malicious.
    ![Thunderbird Email](./screenshots/thunderbird_email.png)
 
 2. **Manual Header Analysis in Sublime Text**
-   ![Sublime Header Analysis](./screenshots/sublime.png)
+   ![Sublime Header Analysis](./screenshots/sublime_analysis.png)
 
 3. **MXToolbox Header Analyzer**
    ![MXTool Analyzer](./screenshots/mxtool_header_analyzer.png)
