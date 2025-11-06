@@ -64,18 +64,17 @@ No security vendors flagged this IP address as malicious.
 ![Thunderbird Email](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/thunderbird_email.png?raw=true)
 
 ### 2. Sublime Text Analysis
-![Sublime Text Analysis](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/83fc2e6b846674ba21a0cc183b6cac2fc45a01f8/screenshot/sublime_analysis.png?raw=true)
-
+![Sublime Analysis](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/sublime_analysis.png?raw=true)
 
 ### 3. MXTool Header Analyzer
-![MXTool Header Analyzer](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/ada7c43b16c7258942da58195ade72fe36c55f4f/screenshot/mxtool_header_analyzer.png?raw=true)
-
+![MXTool Header](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/mxtool_header_analyzer.png?raw=true)
 
 ### 4. VirusTotal Domain Lookup
 ![VirusTotal Domain Lookup](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/virustotal_domain_lookup.png?raw=true)
 
 ### 5. VirusTotal IP Address Lookup
 ![VirusTotal IP Lookup](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/virustotal_ip_address.png?raw=true)
+
 
 
 
