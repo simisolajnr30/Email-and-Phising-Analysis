@@ -70,7 +70,7 @@ No security vendors flagged this IP address as malicious.
 ![MXTool Header](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/mxtool_header_analyzer.png?raw=true)
 
 ### 4. MXTool Blacklisted
-![MXTool Blacklisted](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/mxtool_blacklisted.png?raw=true)
+![MXTool Blacklisted](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/mxtool_blacklist.png?raw=true)
 
 ### 4. VirusTotal Domain Lookup
 ![VirusTotal Domain Lookup](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/virustotal_domain_lookup.png?raw=true)
