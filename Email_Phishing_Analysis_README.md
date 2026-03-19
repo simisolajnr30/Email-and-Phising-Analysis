@@ -81,6 +81,9 @@ The IP address was found in the databse as expected and the IP address has been 
 ### 6. AbuseIPDB In Database
 ![AbuseIPDB](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/abuseipdb.png?raw=true)
 
+### 7. AbuseIPDB IP Reported
+![AbuseIPDB](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/abuseipdb2.png?raw=true)
+
 
 
 
