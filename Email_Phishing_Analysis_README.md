@@ -99,7 +99,8 @@ By correlating both results, I confirmed that the email was malicious despite th
 - How to manually analyze email headers and authentication mechanisms.  
 - Identifying spoofed or typosquatted domains.  
 - Using MXToolbox for DNS and blacklist verification.  
-- Understanding why VirusTotal “undetected” does not always mean safe.  
+- Understanding why VirusTotal “undetected” does not always mean safe.
+- Using AbuseIPDB to find reported IP 
 - Correlating multiple tools to reach accurate conclusions as a SOC analyst.  
 
 
