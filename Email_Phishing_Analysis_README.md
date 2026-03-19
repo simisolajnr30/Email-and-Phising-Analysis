@@ -72,7 +72,6 @@ The IP address was found in the databse as expected and the IP address has been 
 ### 4. MXTool Blacklist Check
 ![MXTool Blacklist](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/mxtool%20blacklist.png?raw=true)
 
-
 ### 4. VirusTotal Domain Lookup
 ![VirusTotal Domain Lookup](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/virustotal_domain_lookup.png?raw=true)
 
