@@ -79,7 +79,7 @@ The IP address was found in the databse as expected and the IP address has been 
 ![VirusTotal IP Lookup](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/virustotal_ip_address.png?raw=true)
 
 ### 6. AbuseIPDB In Database
-![AbuseIPDB](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/AbuseIPDB1.png?raw=true)
+![AbuseIPDB](https://github.com/simisolajnr30/Email-and-Phising-Analysis/blob/main/screenshot/abuseipdb.png?raw=true)
 
 
 
