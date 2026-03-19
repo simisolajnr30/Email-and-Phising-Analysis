@@ -10,8 +10,8 @@ The goal was to identify potential threats, verify findings using multiple tools
 - **Thunderbird** – Extracted and viewed the email as a `.eml` file.  
 - **Sublime Text** – Manually analyzed email headers, message content, and authentication results.  
 - **MXToolbox** – Verified domains, hosts, and authentication records (SPF, DKIM, DMARC).  
-- **VirusTotal** – Checked domains and IP addresses for malware or phishing indicators.  
-
+- **VirusTotal** – Checked domains and IP addresses for malware or phishing indicators.
+- **AbuseIPDB**  - Check if the IP address can be found in its database and how many times its been reported.
 ---
 
 ## 🧩 What I Did
@@ -20,8 +20,10 @@ Next, I opened it in Sublime Text to manually review key headers such as **From*
 
 I then used **MXToolbox** to verify the sender information and check for any blacklisted domains or IPs. The tool confirmed that the sender’s mail host and localhost relay were blacklisted and that all authentication checks had failed.
 
-Finally, I used **VirusTotal** to check the domains and IP addresses individually.  
+I used **VirusTotal** to check the domains and IP addresses individually.  
 Even though VirusTotal reported “undetected,” I concluded that this was a **new or low-profile phishing attempt** based on the red flags already found in the headers and MXToolbox results.
+
+Finally, I use AbuseIPDB to know if the IP address can be found in the database and how many times its been reported for me to make conclusion that its a malicious email.
 
 ---
 
@@ -52,10 +54,8 @@ The domain `amaz0n-pay.com` was scanned on VirusTotal.
 No security vendors flagged this domain as malicious.
 
 ### IP Lookup (`203.0.113.77`)
-The IP address `203.0.113.77` (associated with `suspicious-host.ru`) was scanned on VirusTotal.
+The IP address was found in the databse as expected and the IP address has been reported a total of 4 times from 4 distinct sources. 203.0.113.77 was first reported on September 23rd 2025, and the most recent report was 2 months ago.
 
-**Result:**  
-No security vendors flagged this IP address as malicious.
 
 
 ## 📸 Project Screenshots
